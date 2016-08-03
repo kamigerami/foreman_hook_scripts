@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby193-ruby
 #
 #  A hook to prevent host creation if naming convention <LOCATION>-<HOSTNAME> is not followed.
-#  Created by : Kami Gerami
+#  Created by : Kami Gerami <kami.gerami@gmail.com>
 #  2015-10-09
 require 'pp'
 require 'json'
